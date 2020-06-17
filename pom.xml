@@ -23,13 +23,14 @@
 		<java.version>1.8</java.version>
 		<surefire.version>2.17</surefire.version>
 		<jacoco.version>0.7.9</jacoco.version>
-
+          <!---
 		  <sonar.projectKey>slearn</sonar.projectKey>
          	  <sonar.host.url>http://172.31.30.111:9000</sonar.host.url>
 	          <sonar.login>ce5b26fdbc9aa32243ebe24cb5274c40e85ade04</sonar.login>
-	</properties>
+	  --->
+        </properties>
 	
-
+<!---
 <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
@@ -43,7 +44,7 @@
         <url>http://172.31.30.111:8081/artifactory/libs-release-local</url>
     </repository>
 </distributionManagement>
-
+--->
 
 	<scm>
 		<connection>scm:git:git@github.com:patranivedita/devops.git</connection>
