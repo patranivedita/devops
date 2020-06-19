@@ -25,9 +25,9 @@
 		<surefire.version>2.17</surefire.version>
 		<jacoco.version>0.7.9</jacoco.version>
           
-		  <sonar.projectKey>slearn1</sonar.projectKey>
+		  <sonar.projectKey>slearn</sonar.projectKey>
          	  <sonar.host.url>http://172.31.20.225:9000</sonar.host.url>
-	          <sonar.login>2943f2bea82889ba7977fe6abf79302c1df96ce7</sonar.login>
+	          <sonar.login>39adcf85cb2fb4ca81a5967349777ef5203d573a</sonar.login>
 	  
         </properties>
 	
