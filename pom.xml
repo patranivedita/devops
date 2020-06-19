@@ -31,7 +31,7 @@
 	  
         </properties>
 	
-
+<!--
 <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
@@ -45,7 +45,7 @@
         <url>http://172.31.20.225:8081/artifactory/libs-release-local</url>
     </repository>
 </distributionManagement>
-
+-->
 
 	<scm>
 		<connection>scm:git:git@github.com:patranivedita/devops.git</connection>
