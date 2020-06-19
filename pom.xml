@@ -35,13 +35,13 @@
 <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>artifactory.codewithckk.com-snapshots</name>
+        <name>snapshots</name>
         <url>http://172.31.20.225:8082/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 
     <repository>
         <id>central</id>
-        <name>artifactory.codewithckk.com-releases</name>
+        <name>releases</name>
         <url>http://172.31.20.225:8082/artifactory/libs-release-local</url>
     </repository>
 </distributionManagement>
